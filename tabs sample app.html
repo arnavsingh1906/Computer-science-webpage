@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabs with Radio Buttons</title>
+    <style>
+        /* Style for the tab container */
+        .tabs {
+            display: flex;
+            cursor: pointer;
+            background: #ccc;
+            padding: 10px;
+        }
+
+        /* Style for the tab labels */
+        .tab-label {
+            padding: 10px;
+            background: #eee;
+            margin-right: 5px;
+            border-radius: 5px;
+            cursor: pointer;
+            display: inline-flex;
+            align-items: center;
+        }
+
+        /* Style for the radio buttons */
+        .tab-label input[type="radio"] {
+            margin-right: 5px;  /* Space between radio icon and label text */
+        }
+
+        /* Style for active tab */
+        .tab-label:hover {
+            background: #ddd;
+        }
+
+        /* Style for tab content */
+        .tab-content {
+            display: none;
+            padding: 10px;
+            border: 1px solid #ccc;
+            margin-top: 10px;
+        }
+
+        /* Show the content when the corresponding radio button is checked */
+        input#tab1:checked ~ .tab-content#content1 {
+            display: block;
+        }
+        input#tab2:checked ~ .tab-content#content2 {
+            display: block;
+        }
+        input#tab3:checked ~ .tab-content#content3 {
+            display: block;
+        }
+
+        /* Hide the radio buttons */
+        input[type="radio"] {
+            display: none;
+        }
+
+    </style>
+</head>
+<body>
+    <div class="tabs">
+        <input type="radio" id="tab1" name="tab" checked>
+        <label class="tab-label" for="tab1">
+            <input type="radio" name="tab" id="radio1"> Tab 1
+        </label>
+        
+        <input type="radio" id="tab2" name="tab">
+        <label class="tab-label" for="tab2">
+            <input type="radio" name="tab" id="radio2"> Tab 2
+        </label>
+        
+        <input type="radio" id="tab3" name="tab">
+        <label class="tab-label" for="tab3">
+            <input type="radio" name="tab" id="radio3"> Tab 3
+        </label>
+    </div>
+
+    <div class="tab-content" id="content1">Content for Tab 1</div>
+    <div class="tab-content" id="content2">Content for Tab 2</div>
+    <div class="tab-content" id="content3">Content for Tab 3</div>
+</body>
+</html>
