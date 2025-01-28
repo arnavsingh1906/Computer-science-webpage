@@ -1,0 +1,790 @@
+
+<!-- saved from url=(0080)http://cse.iiitdmj.ac.in/faculty_page.php?id=aojha@iiitdmj.ac.in#profile_teacher -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  	
+    <title>Computer Science department IIITDM Jabalpur</title>
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+    <!-- Favicons-->
+    <link rel="shortcut icon" href="http://cse.iiitdmj.ac.in/assets/img/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" type="image/x-icon" href="http://cse.iiitdmj.ac.in/assets/img/apple-touch-icon-57x57-precomposed.png">
+    <link rel="apple-touch-icon" type="image/x-icon" sizes="72x72" href="http://cse.iiitdmj.ac.in/assets/img/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon" type="image/x-icon" sizes="114x114" href="http://cse.iiitdmj.ac.in/assets/img/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon" type="image/x-icon" sizes="144x144" href="http://cse.iiitdmj.ac.in/assets/img/apple-touch-icon-144x144-precomposed.png">
+    <link href="./Education_files/settings.css" media="screen" rel="stylesheet">
+
+    <!-- CSS -->
+    <link href="./Education_files/bootstrap.min.css" rel="stylesheet">
+    <link href="./Education_files/superfish.css" rel="stylesheet">
+    <link href="./Education_files/style.css" rel="stylesheet">
+    <link href="./Education_files/fontello.css" rel="stylesheet">
+    <link href="./Education_files/dataTables.bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="./Education_files/font-awesome.min.css">
+    <link rel="stylesheet" href="./Education_files/jquery.fancybox.css">
+	  <link href="./Education_files/theme.min.css" rel="stylesheet" type="text/css">
+    <link href="./Education_files/styles.css" rel="stylesheet" type="text/css">
+	
+	<!--google login-->
+	 <script src="./Education_files/cb=gapi.loaded_0" async=""></script><script src="./Education_files/google.js.download"></script>
+    <meta name="google-signin-client_id" content="679890605813-5gieptbeio0sijnnqgn3i3d3v1ghcvkf.apps.googleusercontent.com">
+    <script src="./Education_files/client_platform.js.download" gapi_processed="true"></script> 
+    
+
+
+ </head>
+
+
+
+
+
+<body id="app-layout" style="">
+    <nav class="navbar-dark navbar-static-top sticky">
+        <div class="container">
+            <div class="navbar-header">
+
+                <!-- Collapsed Hamburger -->
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#app-navbar-collapse">
+                    <span class="sr-only">Toggle Navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+
+                <!-- Branding Image -->
+                <!--<a class="navbar-brand1 navbar-right" href="index.php">
+                CSE Discipline, IIITDMJ
+                </a>-->
+                <a class="navbar-brand1 navbar-left" href="http://cse.iiitdmj.ac.in/index.php">
+                    <img src="./Education_files/logo.png">
+                </a>
+            </div>
+
+            <div class="collapse navbar-collapse" id="app-navbar-collapse">
+                <!-- Left Side Of Navbar -->
+             
+
+                <!-- Right Side Of Navbar -->
+                <ul class="nav navbar-nav navbar-right">
+              		<a href="http://cse.iiitdmj.ac.in/index.php">Home</a>
+						
+						<li><a href="http://cse.iiitdmj.ac.in/aboutus.php">About</a></li>
+						<li class="dropdown">
+							<a href="http://cse.iiitdmj.ac.in/faculty_page.php?id=aojha@iiitdmj.ac.in#" class="dropdown-toggle" data-toggle="dropdown">Programs<strong class="caret"></strong></a>
+								
+								<ul class="dropdown-menu">
+									<li><a href="http://cse.iiitdmj.ac.in/btech.php">B.Tech.</a></li>
+									<li><a href="http://cse.iiitdmj.ac.in/mtech.php">M.Tech.</a></li>
+									<li><a href="http://cse.iiitdmj.ac.in/phd.php">Ph.D.</a></li>
+								</ul>
+						</li>
+						
+						<li class="dropdown">
+							<a href="http://cse.iiitdmj.ac.in/faculty_page.php?id=aojha@iiitdmj.ac.in#" class="dropdown-toggle" data-toggle="dropdown">People<strong class="caret"></strong></a>
+								
+						<ul class="dropdown-menu">
+							<li><a href="http://cse.iiitdmj.ac.in/faculty.php">Faculty</a></li>
+							
+							<li><a href="http://cse.iiitdmj.ac.in/students.php">Student</a></li>
+							<li><a href="http://cse.iiitdmj.ac.in/staff.php">Staff</a></li>
+							<li><a href="http://cse.iiitdmj.ac.in/visitingfaculty.php">Visiting Faculty</a></li>
+						</ul>
+						</li>
+						
+						<li class="dropdown">
+							<a href="http://cse.iiitdmj.ac.in/faculty_page.php?id=aojha@iiitdmj.ac.in#" class="dropdown-toggle" data-toggle="dropdown">Research<strong class="caret"></strong></a>
+								
+						<ul class="dropdown-menu">
+						<li><a href="http://cse.iiitdmj.ac.in/publication.php">Publication</a></li>
+							<li><a href="http://cse.iiitdmj.ac.in/facultyProjects.php">Projects</a></li>
+							
+								<li><a href="http://cse.iiitdmj.ac.in/research.php">Research Work</a></li>		
+						
+							<!-- <li><a href="/programme/mtech">M.Tech.</a></li> -->
+							<!-- <li><a href="/programme/phd">Ph.D.</a></li> -->
+						</ul>
+
+						</li>
+                        <li><a href="http://cse.iiitdmj.ac.in/placement.php">Placement</a></li>
+						<li><a href="http://cse.iiitdmj.ac.in/facilities.php">Facilities</a></li>
+						<li><a href="http://cse.iiitdmj.ac.in/gallery.php">Gallery</a></li>
+                        <!--<li><a href="admission.php">Admissions</a></li>-->
+						<li><a href="http://cse.iiitdmj.ac.in/news_details.php">News &amp; Events</a></li>
+						<li><a href="http://cse.iiitdmj.ac.in/contactus.php">Contacts</a></li>
+                        <li><a href="http://cse.iiitdmj.ac.in/login.php">Login</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+<div class="container">
+	<div class="row">
+		<div class="col-md-12 text-center">
+			   <div class="vd_title-section clearfix">
+            <div class="vd_panel-header no-subtitle text-center">
+              <h1>Faculty Profile - Aparajita Ojha</h1>
+            </div>
+          </div>
+		</div>
+	</div><!-- End row -->
+</div><!-- End container -->
+
+<!-- End sub-header -->
+
+<section id="main_content">
+
+<div class="container">
+
+      <div class="row">
+      <aside class="col-md-4">
+
+
+         <div class="panel widget light-widget panel-bd-top">
+                  <div class="panel-heading no-title"> </div>
+                  <div class="panel-body">
+                    <div class="text-center vd_info-parent"> <img alt="example image" src="./Education_files/aojha.jpg" class="img-circle styled"> </div>
+					<br>
+				   <div class="row">
+                          <ul class="social_teacher">
+                    <li><a href="https://www.facebook.com/aparajita.ojha"><i class="icon-facebook"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/aparajita-ojha-02078817"><i class="icon-linkedin"></i></a></li>
+                    <li><a href="https://scholar.google.com/citations?user=zUNO2QMAAAAJ&amp;hl=en&amp;oi=ao"><i class=" icon-google"></i></a></li>
+					
+                </ul>  
+					<br><br>
+				   </div>
+                      <ul>
+					 
+								<li>Name <strong class="pull-right">Aparajita Ojha</strong> </li>
+								<li>Designation <strong class="pull-right">Professor</strong> </li>
+					
+                     <li>Email <strong class="pull-right">aojha@iiitdmj.ac.in</strong></li>
+                  <li>phone <strong class="pull-right">+91-761-2632 044</strong></li>
+                     <li>Webpage link <strong class="pull-right"><a href="http://web.iiitdmj.ac.in/~aojha/">Click here..</a></strong></li>
+					 <li>CV <strong class="pull-right"><a href="http://cse.iiitdmj.ac.in/faculty_page.php?id=aojha@iiitdmj.ac.in">Click here..</a></strong></li>
+                  <br>
+                </ul> <div class="mgtp-20">
+                      
+                    </div>
+                  </div>
+                </div>
+    <!-- <div class=" box_style_1 profile">
+		<p class="text-center"><img src="/assets/img/faculty/atul.jpg" alt="Teacher" class="img-circle styled"></p>
+        		  <ul class="social_teacher">
+                    <li><a href="https://www.facebook.com/aparajita.ojha"><i class="icon-facebook"></i></a></li>
+                    <li><a href="https://www.linkedin.com/in/aparajita-ojha-02078817"><i class="icon-twitter"></i></a></li>
+                    <li><a href="https://scholar.google.com/citations?user=zUNO2QMAAAAJ&hl=en&oi=ao"><i class=" icon-google"></i></a></li>
+                </ul>   
+                 <ul>
+                     <li>Name <strong class="pull-right">Atul Gupt</strong> </li>
+                     <li>Email <strong class="pull-right">atul@iiitdmj.ac.in</strong></li>
+                     <li>Telephone  <strong class="pull-right">+91-761-2632139(EX-128)</strong></li>
+                     <li>Intranet link <strong class="pull-right"><a href="http://web.iiitdmj.ac.in/~atul">Click here..</a></strong></li>
+                    <!-- <li>Lessons <strong class="pull-right">12</strong></li>
+                     <li>Courses <strong class="pull-right">15</strong></li>-->
+                <!--</ul>
+              
+		<!--	</div><!-- End box-sidebar --> 
+     </aside><!-- End aside --><div class="col-md-8">
+     
+     			<!--  Tabs -->   
+                    <ul class="nav nav-tabs" id="mytabs">
+                        <li class="active"><a href="http://cse.iiitdmj.ac.in/faculty_page.php?id=aojha@iiitdmj.ac.in#profile_teacher" data-toggle="tab">Profile</a></li>
+						<li class=""><a href="http://cse.iiitdmj.ac.in/faculty_page.php?id=aojha@iiitdmj.ac.in#Courses" data-toggle="tab">Courses</a></li>
+						<li class=""><a href="http://cse.iiitdmj.ac.in/faculty_page.php?id=aojha@iiitdmj.ac.in#Research_Activities" data-toggle="tab">Research Work</a></li>
+						
+						<li class=""><a href="http://cse.iiitdmj.ac.in/faculty_page.php?id=aojha@iiitdmj.ac.in#Publication" data-toggle="tab">Publication</a></li>
+						<li><a href="http://cse.iiitdmj.ac.in/faculty_page.php?id=aojha@iiitdmj.ac.in#Administrative" data-toggle="tab">Administrative Work</a></li>
+						<li><a href="http://cse.iiitdmj.ac.in/faculty_page.php?id=aojha@iiitdmj.ac.in#Research_students" data-toggle="tab">Research Students</a></li>
+                    </ul>
+                    
+                     <div class="tab-content">
+                     
+                        <div class="tab-pane fade active in" id="profile_teacher">
+                              <div class="pd-20">
+
+        <!--<div class="vd_info tr"> <a class="btn vd_btn btn-xs vd_bg-yellow" href="profile_edit.php"> <i class="fa fa-pencil append-icon"></i> Edit </a> </div>     
+       <h3 class="font-semibold"><i class="icon-user profile-icon"></i> ABOUT</h3>--> 
+   				 
+        <div class="row">
+
+          <div class="col-sm-12 mgbt-xs-20">
+            <h3 class="mgbt-xs-15 font-semibold"><i class="fa fa-file-text-o mgr-10 profile-icon"></i> About Me</h3>
+            <div class="content-list content-menu">
+			 
+           
+              <ul>			  
+                <li>about</li>
+              </ul>
+			
+                
+            </div>
+          </div>
+		</div>
+		
+		
+		<div class="row">
+          <div class="col-sm-12">
+            <h3 class="mgbt-xs-15 font-semibold"><i class="fa fa-trophy mgr-10 profile-icon"></i> EDUCATION</h3>
+            <div class="content-list content-menu">
+              <ul>
+               <li>
+
+  qualification
+
+</li>
+              </ul>
+            </div>            
+          </div>
+        </div>
+		<br>
+		<div class="row">
+          <div class="col-sm-12">
+            <h3 class="mgbt-xs-15 font-semibold"><i class="fa fa-check-square-o mgr-10 profile-icon"></i> Interest Area</h3>
+            <div class="content-list content-menu">
+              <ul>
+               <li> Mathametics in Computer Science, Computer Aided Geometric Design, Finite Elements, Spline Theory</li>
+              </ul>
+            </div>            
+          </div>
+        </div>
+	   
+        <!-- row -->
+        <hr class="pd-10">
+        <div class="row">
+         <!-- <div class="col-sm-7">
+            <h3 class="mgbt-xs-15 font-semibold"><i class="fa fa-globe mgr-10 profile-icon"></i> ACTIVITY</h3>
+            <div class="">
+              <div class="content-list">
+                <div data-rel="scroll" class="mCustomScrollbar _mCS_6" style="overflow: hidden;"><div class="mCustomScrollBox mCS-light" id="mCSB_6" style="position: relative; height: 100%; overflow: hidden; max-width: 100%; max-height: 400px;"><div class="mCSB_container" style="position:relative; top:0;">
+                  <ul class="list-wrapper">
+                    <li> <span class="menu-icon vd_yellow"><i class="fa fa-suitcase"></i></span> <span class="menu-text"> Someone has give you a surprise <span class="menu-info"><span class="menu-date"> ~ 12 Minutes Ago</span></span> </span>  </li>
+                    <li> <span class="menu-icon vd_blue"><i class=" fa fa-user"></i></span> <span class="menu-text"> Change your user profile details <span class="menu-info"><span class="menu-date"> ~ 1 Hour 20 Minutes Ago</span></span> </span> </li>
+                    <li> <span class="menu-icon vd_red"><i class=" fa fa-cogs"></i></span> <span class="menu-text"> Your setting is updated <span class="menu-info"><span class="menu-date"> ~ 12 Days Ago</span></span> </span></li>
+                    <li>  <span class="menu-icon vd_green"><i class=" fa fa-book"></i></span> <span class="menu-text"> Added new article <span class="menu-info"><span class="menu-date"> ~ 19 Days Ago</span></span> </span>  </li>
+                    <li>  <span class="menu-icon vd_green"><img alt="example image" src="./User Profile Pages HTML Template - Responsive Multipurpose Admin Templates _ Vendroid_files/avatar.jpg"></span> <span class="menu-text"> Change Profile Pic <span class="menu-info"><span class="menu-date"> ~ 20 Days Ago</span></span> </span> </li>
+                    <li>  <span class="menu-icon vd_red"><i class=" fa fa-cogs"></i></span> <span class="menu-text"> Your setting is updated <span class="menu-info"><span class="menu-date"> ~ 12 Days Ago</span></span> </span>  </li>
+                    <li>  <span class="menu-icon vd_green"><i class=" fa fa-book"></i></span> <span class="menu-text"> Added new article <span class="menu-info"><span class="menu-date"> ~ 19 Days Ago</span></span> </span> </li>
+                    <li>  <span class="menu-icon vd_green"><img alt="example image" src="./User Profile Pages HTML Template - Responsive Multipurpose Admin Templates _ Vendroid_files/avatar.jpg"></span> <span class="menu-text"> Change Profile Pic <span class="menu-info"><span class="menu-date"> ~ 20 Days Ago</span></span> </span>  </li>
+                  </ul>
+                </div><div class="mCSB_scrollTools" style="position: absolute; display: block; opacity: 0;"><div class="mCSB_draggerContainer"><div class="mCSB_dragger" style="position: absolute; top: 0px; height: 352px;" oncontextmenu="return false;"><div class="mCSB_dragger_bar" style="position: relative; line-height: 352px;"></div></div><div class="mCSB_draggerRail"></div></div></div></div></div>
+                <div class="closing text-center" style=""> <a href="http://vendroid.venmond.com/pages-user-profile.php#">See All Activities <i class="fa fa-angle-double-right"></i></a> </div>
+              </div>
+            </div>
+          </div>-->
+          <!-- col-sm-7 --> 
+          
+          <!-- col-sm-7 -->           
+        </div>
+        <!-- row --> 
+      </div>
+                       </div><!-- End tab-pane --> 
+
+
+                      
+			<div class="tab-pane fade" id="Courses">
+						
+							
+					<div class="row">
+						<div class="user-details">
+							
+							
+								
+								
+								<div class="user-body">
+									
+										
+											<div class="row">	
+												<div class="col-md-12 col-sm-12" style="overflow:scroll;">
+													
+													<table class="table table-hover">
+													<thead>
+													
+														<tr>
+														   <th>Id</th>
+															<th>Sem/Year</th>
+															<th>Course Name</th>
+															<th>Course Code</th>
+															<th>Course Type</th>
+															<th>Lecture Hrs/wk</th>
+															<th>Tutorial Hrs/wk</th>
+															<th>Lab Hrs/wk</th>
+															<th>Co-Instructor</th>
+															<th>Credit</th>
+															<th>CourseLink</th>
+															
+														</tr>
+													
+													</thead>
+													<tbody></tbody>
+													
+													</table>
+												
+													</div>
+											
+										
+									
+									</div>
+								</div>
+							
+						</div>
+					</div>
+									
+			</div><!-- End tab-pane -->
+
+
+
+					   <div class="tab-pane fade" id="Research_Activities">
+                      
+						
+                        	<div class="row">
+						        <div class="user-details">
+							
+							
+								
+								<ul class="nav nav-pills" id="mytabs">
+									<li class="active">
+										<a data-toggle="tab" href="http://cse.iiitdmj.ac.in/faculty_page.php?id=aojha@iiitdmj.ac.in#projects">
+											Projects
+										</a>
+									</li>
+									<li>
+										<a data-toggle="tab" href="http://cse.iiitdmj.ac.in/faculty_page.php?id=aojha@iiitdmj.ac.in#research">
+											Research Activities
+										</a>
+									</li>
+								
+								</ul>
+								<div class="user-body">
+									<div class="tab-content">
+										<div id="projects" class="tab-pane active">
+										
+											<div class="row">	
+												<div class="col-md-12 col-sm-12">
+													
+													<table class="table table-hover">
+													<thead>
+														<tr>
+															<th>Project Name</th>				
+															<th>Funding Agency</th>
+															<th>Funding Amount</th>
+															<th>Start Date</th>
+															<th>End Date</th>
+															<th>Status</th>
+															
+														</tr>
+													</thead>
+													<tbody><tr>
+														    <td>3D-Mesh Model Steganography and Secure Communication in a Cloud Manufacturing Environment</td>
+															<td>DST-JSPS</td>
+															<td>Rs. 9.22 lacs</td>
+															<td>29-06-21</td>
+															<td>28-06-23</td>
+															<td>Ongoing</td>
+														
+														</tr></tbody>
+													
+													</table>
+												
+													</div>
+											</div> 
+											
+										</div>
+											
+										
+										<div id="research" class="tab-pane">
+											<div class="row">	
+												<div class="col-md-12 col-sm-12"></div>
+											</div>
+											
+										</div>
+									
+									</div>
+								</div>
+							
+						</div>
+					</div>
+                                
+                       </div><!-- End tab-pane -->
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					      <div class="tab-pane fade" id="Publication">
+                      
+						
+                        	<div class="row">
+						        <div class="user-details">
+							
+							
+								
+								<ul class="nav nav-pills" id="mytabs">
+									<li class="active">
+										<a data-toggle="tab" href="http://cse.iiitdmj.ac.in/faculty_page.php?id=aojha@iiitdmj.ac.in#journal">
+											Journals
+										</a>
+									</li>
+									<li>
+										<a data-toggle="tab" href="http://cse.iiitdmj.ac.in/faculty_page.php?id=aojha@iiitdmj.ac.in#conference">
+											Conferences
+										</a>
+									</li>
+								
+								</ul>
+								<div class="user-body">
+									<div class="tab-content">
+										<div id="journal" class="tab-pane active">
+										
+											<div class="row">	
+												<div class="col-md-12 col-sm-12"> <p><b>1.</b> Poornima Singh Thakur, Tanuja Sheorey, Aparajita Ojha, <b>VGG-ICNN: A Lightweight CNN model for crop disease identification</b> in <b>Multimedia Tools and Applications</b> 2022 vol:<b></b> Num:<b></b> page:<b>1-24</b> at:<b></b> Publisher:<b>Springer US</b>, DOI=<a href="http://dx.doi.org/https://doi.org/10.1007/s11042-022-13144-z">http://dx.doi.org/https://doi.org/10.1007/s11042-022-13144-z</a></p> <p><b>2.</b> Amit Kumar, Aparajita Ojha, Sonal Yadav, Anupam Kumar, <b>Real-time interception performance evaluation of certain proportional navigation based guidance laws in aerial ground engagement</b> in <b>Intelligent Service Robotics</b> 2022 vol:<b>15</b> Num:<b>1</b> page:<b>95-114</b> at:<b></b> Publisher:<b>Springer Berlin Heidelberg</b>, DOI=<a href="http://dx.doi.org/https://doi.org/10.1007/s11370-021-00404-4">http://dx.doi.org/https://doi.org/10.1007/s11370-021-00404-4</a></p> <p><b>3.</b> Shubhangi Chaturvedi, Pritee Khanna, Aparajita Ojha, <b>A survey on vision-based outdoor smoke detection techniques for environmental safety</b> in <b>ISPRS Journal of Photogrammetry and Remote Sensing</b> 2022 vol:<b>185</b> Num:<b></b> page:<b>158-187</b> at:<b></b> Publisher:<b>Elsevier</b>, DOI=<a href="http://dx.doi.org/https://doi.org/10.1016/j.isprsjprs.2022.01.013">http://dx.doi.org/https://doi.org/10.1016/j.isprsjprs.2022.01.013</a></p> <p><b>4.</b> R. Jothi, Sraban Kumar Mohanty, and A. Ojha, <b>Gene expression clustering using local neighborhood-based similarity measures</b> in <b>Computers &amp; Electrical Engineering</b> 2021 vol:<b></b> Num:<b></b> page:<b>-</b> at:<b></b> Publisher:<b></b>, DOI=<a href="http://dx.doi.org/https://doi.org/10.1016/j.compeleceng.2021.107032">http://dx.doi.org/https://doi.org/10.1016/j.compeleceng.2021.107032</a></p> <p><b>5.</b> Samir Jain, Ayan Seal, Aparajita Ojha, Ondrej Krejcar, Jan Bures, Ilja Tacheci, Anis Yazidi, <b>Detection of Abnormality in Wireless Capsule Endoscopy Images using Fractal Features</b> in <b>Computers in Biology and Medicine</b> 2020 vol:<b></b> Num:<b></b> page:<b>-</b> at:<b></b> Publisher:<b></b>, DOI=<a href="http://dx.doi.org/http://dx.doi.org/10.1016/j.compbiomed.2020.104094">http://dx.doi.org/http://dx.doi.org/10.1016/j.compbiomed.2020.104094</a></p> <p><b>6.</b> Amit Kumar, Aparajita Ojha, <b>Experimental Evaluation of Certain Pursuit and Evasion Schemes for Wheeled Mobile Robots</b> in <b>International Journal of Automation and Computing</b> 2019 vol:<b>16</b> Num:<b>4</b> page:<b>491-510</b> at:<b></b> Publisher:<b>Institute of Automation, Chinese Academy of Sciences</b>, DOI=<a href="http://dx.doi.org/https://doi.org/10.1007/s11633-018-1151-x">http://dx.doi.org/https://doi.org/10.1007/s11633-018-1151-x</a></p> <p><b>7.</b> B Ramachandra Reddy, Aparajita Ojha, <b>How effective are maintainability metrics in estimating maintenance efforts? An empirical study</b> in <b>International Journal of System Assurance Engineering and Management</b> 2019 vol:<b>10</b> Num:<b>5</b> page:<b>984-1001</b> at:<b></b> Publisher:<b>Springer India</b>, DOI=<a href="http://dx.doi.org/https://doi.org/10.1007/s13198-019-00828-3">http://dx.doi.org/https://doi.org/10.1007/s13198-019-00828-3</a></p> <p><b>8.</b> B Ramachandra Reddy, Aparajita Ojha, <b>Performance of Maintainability Index prediction models: a feature selection based study</b> in <b>Evolving Systems</b> 2019 vol:<b>10</b> Num:<b>2</b> page:<b>179-204</b> at:<b></b> Publisher:<b>Springer Berlin Heidelberg</b>, DOI=<a href="http://dx.doi.org/https://doi.org/10.1007/s12530-017-9201-0">http://dx.doi.org/https://doi.org/10.1007/s12530-017-9201-0</a></p> <p><b>9.</b> Gyan Singh Yadav, Aparajita Ojha, <b>Secure data hiding scheme using shape generation algorithm: a key based approach</b> in <b>Multimedia Tools and Applications</b> 2018 vol:<b>77</b> Num:<b>13</b> page:<b>16319-16345</b> at:<b></b> Publisher:<b>Springer US</b>, DOI=<a href="http://dx.doi.org/https://doi.org/10.1007/s11042-017-5200-1">http://dx.doi.org/https://doi.org/10.1007/s11042-017-5200-1</a></p> <p><b>10.</b> Gyan Singh Yadav, Aparajita Ojha, <b>Hamiltonian path based image steganography scheme with improved imperceptibility and undetectability</b> in <b>Applied Soft Computing</b> 2018 vol:<b>73</b> Num:<b></b> page:<b>497-507</b> at:<b></b> Publisher:<b>Elsevier</b>, DOI=<a href="http://dx.doi.org/https://doi.org/10.1016/j.asoc.2018.08.034">http://dx.doi.org/https://doi.org/10.1016/j.asoc.2018.08.034</a></p> <p><b>11.</b> Deepika Shukla, Aparajita Ojha, Rajib Kumar Jha, <b>A new composite multi-constrained differential-radon warping approach for digital video affine motion stabilization</b> in <b>Computer Vision and Image Understanding</b> 2017 vol:<b>155</b> Num:<b></b> page:<b>83-105</b> at:<b></b> Publisher:<b></b>, DOI=<a href="http://dx.doi.org/https://doi.org/10.1016/j.cviu.2016.11.009">http://dx.doi.org/https://doi.org/10.1016/j.cviu.2016.11.009</a></p> <p><b>12.</b> Amit Kumar, Aparajita Ojha, Prabin Kumar Padhy, <b>Anticipated trajectory based proportional navigation guidance scheme for intercepting high maneuvering targets</b> in <b>International Journal of Control, Automation and Systems</b> 2017 vol:<b>15</b> Num:<b>3</b> page:<b>1351-1361</b> at:<b></b> Publisher:<b>Institute of Control, Robotics and Systems and The Korean Institute of Electrical Engineers</b>, DOI=<a href="http://dx.doi.org/https://doi.org/10.1007/s12555-015-0166-0">http://dx.doi.org/https://doi.org/10.1007/s12555-015-0166-0</a></p> <p><b>13.</b> R Jothi, Sraban Kumar Mohanty, Aparajita Ojha, <b>Functional grouping of similar genes using eigenanalysis on minimum spanning tree based neighborhood graph</b> in <b>Computers in biology and medicine</b> 2016 vol:<b>71</b> Num:<b></b> page:<b>135-148</b> at:<b></b> Publisher:<b>Pergamon</b>, DOI=<a href="http://dx.doi.org/https://doi.org/10.1016/j.compbiomed.2016.02.007">http://dx.doi.org/https://doi.org/10.1016/j.compbiomed.2016.02.007</a></p> <p><b>14.</b> AK Ojha, M Tiwari, <b>Lignin Decolorization and Degradation of Pulp and Paper Mill Effluent by Ligninolytic Bacteria</b> in <b>Iranian (Iranica) Journal of Energy &amp; Environment</b> 2016 vol:<b>7</b> Num:<b>3</b> page:<b>282-293</b> at:<b></b> Publisher:<b>Babol Noshirvani University of Technology</b>, DOI=<a href="http://dx.doi.org/https://dx.doi.org/10.5829/idosi.ijee.2016.07.03.11">http://dx.doi.org/https://dx.doi.org/10.5829/idosi.ijee.2016.07.03.11</a></p> <p><b>15.</b> Vivek Singh Verma, Rajib Kumar Jha, Aparajita Ojha, <b>Digital watermark extraction using support vector machine with principal component analysis based feature reduction</b> in <b>Journal of Visual Communication and Image Representation</b> 2015 vol:<b>31</b> Num:<b></b> page:<b>75-85</b> at:<b></b> Publisher:<b>Academic Press</b>, DOI=<a href="http://dx.doi.org/https://doi.org/10.1016/j.jvcir.2015.06.001">http://dx.doi.org/https://doi.org/10.1016/j.jvcir.2015.06.001</a></p> <p><b>16.</b> Deepika Shukla, Rajib Kumar Jha, Aparajita Ojha, <b>Unsteady camera zoom stabilization using slope estimation over interest warping vectors</b> in <b>Pattern Recognition Letters</b> 2015 vol:<b>68</b> Num:<b></b> page:<b>197-204</b> at:<b></b> Publisher:<b>North-Holland</b>, DOI=<a href="http://dx.doi.org/https://doi.org/10.1016/j.patrec.2015.09.012">http://dx.doi.org/https://doi.org/10.1016/j.patrec.2015.09.012</a></p></div>
+											</div>
+										
+										</div>
+										
+										
+										<div id="conference" class="tab-pane">
+											<div class="row">	
+												<div class="col-md-12 col-sm-12"> <p><b>1.</b> Poornima Singh Thakur, Tanuja Sheorey, Aparajita Ojha, <b>Crop Disease Identification using State-of-the-Art Deep Convolutional Neural Networks</b> in INTERNATIONAL CONFERENCE ON SMART MACHINE INTELLIGENCE AND REAL-TIME COMPUTING (SMARTCOM 2020, 2021,  pp -, Govind Ballabh Pant Institute of Engineering &amp; Technology, Pauri Uttarakhand, 26-Jun-21-27-Jun-21,  </p><p><b>2.</b> Samir Jain, Ayan Seal, Aparajita Ojha, <b>Deep Learning Models for Anomaly Detection in Wireless Capsule Endoscopy Video Frames: Transfer Learning Approach</b> in International Conference on Smart Machine Intelligence And Real-Time Computing, 2020,  pp -, Govind Ballabh Pant Institute of Engineering &amp; Technology, India, 26-Jun-20-27-Jun-20, CRC Press </p><p><b>3.</b> Samir Jain, Ayan Seal, Aparajita Ojha, <b>Deep Learning Models for Anomaly Detection in Wireless Capsule Endoscopy Video Frames: Transfer Learning Approach</b> in International Conference on Smart Machine Intelligence And Real-Time Computing, 2020,  pp -, Govind Ballabh Pant Institute of Engineering &amp; Technology, India, 26-Jun-20-27-Jun-20, CRC Press </p><p><b>4.</b> Jain Shreya, Thakur P.S., Bharti K.K., Ojha A. and Khanna Pritee, <b>A Lightweight Multi-Label Image Classification Model Based on Inception Module</b> in 5th International Conference on Computer Vision &amp; Image Processing (CVIP 2020)&nbsp;, 2020,  pp -, Prayagraj, India, 04-Dec-20-06-Dec-20, The International Association for Pattern Recognition (IAPR), DOI=<a href="http://dx.doi.org/https://doi.org/10.1007/978-981-16-1103-2_20">http://dx.doi.org/https://doi.org/10.1007/978-981-16-1103-2_20</a></p> <p><b>5.</b> Vivek Singh Verma, Ajay Kumar Garg, Anuj Bhardwaj, Rajib Kumar Jha, Aparajita Ojha, <b>Robust image watermarking using combined DSR-SVM with PCA based feature reduction</b> in 2016 Sixth International Symposium on Embedded Computing and System Design (ISED), 2016,  pp 323-327, , -, IEEE, DOI=<a href="http://dx.doi.org/https://doi.org/10.1109/ISED.2016.7977106">http://dx.doi.org/https://doi.org/10.1109/ISED.2016.7977106</a></p> <p><b>6.</b> B Ramachandra Reddy, Saahil Khurana, Aparajita Ojha, <b>Software Maintainability Estimation Made Easy: A Comprehensive Tool COIN</b> in Proceedings of the Sixth International Conference on Computer and Communication Technology 2015, 2015,  pp 68-72, , -, , DOI=<a href="http://dx.doi.org/https://doi.org/10.1145/2818567.2818580">http://dx.doi.org/https://doi.org/10.1145/2818567.2818580</a></p> <p><b>7.</b> R Jothi, Sraban Kumar Mohanty, Aparajita Ojha, <b>On the Impact of Post-clustering Phase in Multi-way Spectral Partitioning</b> in International Conference on Mining Intelligence and Knowledge Exploration, 2015,  pp 161-169, , -, Springer, Cham, DOI=<a href="http://dx.doi.org/https://doi.org/10.1007/978-3-319-26832-3_16">http://dx.doi.org/https://doi.org/10.1007/978-3-319-26832-3_16</a></p> <p><b>8.</b> B Ramachandra Reddy, Aparajita Ojha, <b>Discrimination of Class Inheritance Hierarchies – A Vector Approach</b> in New Perspectives in Information Systems and Technologies, Volume 2, 2014,  pp 121-130, , -, Springer, Cham, DOI=<a href="http://dx.doi.org/https://doi.org/10.1007/978-3-319-05948-8_12">http://dx.doi.org/https://doi.org/10.1007/978-3-319-05948-8_12</a></p> <p><b>9.</b> B Ramachandra Reddy, Aparajita Ojha, <b>ClassIN: A Class Inheritance Metric Tool</b> in New Perspectives in Information Systems and Technologies, Volume 2, 2014,  pp 113-119, , -, Springer, Cham, DOI=<a href="http://dx.doi.org/https://doi.org/10.1007/978-3-319-05948-8_11">http://dx.doi.org/https://doi.org/10.1007/978-3-319-05948-8_11</a></p> <p><b>10.</b> Suchi Kumari, Aparajita Ojha, <b>Maintainable Stochastic Flow Networks with High QoS: A Quick and Practical Approach</b> in 2014 Fourth International Conference on Advances in Computing and Communications, 2014,  pp 260-265, , -, IEEE, DOI=<a href="http://dx.doi.org/https://doi.org/10.1109/ICACC.2014.69">http://dx.doi.org/https://doi.org/10.1109/ICACC.2014.69</a></p> <p><b>11.</b> Shivani Johari, Aparajita Ojha, <b>Quickest path problems in stochastic-flow networks with time constraint: A fast and reliable solution</b> in 2013 3rd IEEE International Advance Computing Conference (IACC), 2013,  pp 1555-1560, Ghaziabad, India, -, IEEE, DOI=<a href="http://dx.doi.org/https://doi.org/10.1109/IAdCC.2013.6514458">http://dx.doi.org/https://doi.org/10.1109/IAdCC.2013.6514458</a></p> <p><b>12.</b> Gyan Singh Yadav, Aparajita Ojha, <b>A novel visual cryptography scheme based on substitution cipher</b> in 2013 IEEE Second International Conference on Image Information Processing (ICIIP-2013), 2013,  pp 640-643, , -, IEEE, DOI=<a href="http://dx.doi.org/https://doi.org/10.1109/ICIIP.2013.6707673">http://dx.doi.org/https://doi.org/10.1109/ICIIP.2013.6707673</a></p> <p><b>13.</b> Amit Kumar, Aparajita Ojha, <b>Performance evaluation of certain proportional navigation guidance schemes</b> in 2013 International Conference on Control, Automation, Robotics and Embedded Systems (CARE), 2013,  pp 1-7, , -, IEEE, DOI=<a href="http://dx.doi.org/https://doi.org/10.1109/CARE.2013.6733766">http://dx.doi.org/https://doi.org/10.1109/CARE.2013.6733766</a></p> <p><b>14.</b> Devendra Mani Tripathi, Aparajita Ojha, <b>LPMP: An efficient lightweight protocol for mobile payment</b> in 2012 3rd National Conference on Emerging Trends and Applications in Computer Science, 2012,  pp 41-45, , -, IEEE, DOI=<a href="http://dx.doi.org/https://doi.org/10.1109/NCETACS.2012.6203295">http://dx.doi.org/https://doi.org/10.1109/NCETACS.2012.6203295</a></p> <p><b>15.</b> Gyan Singh Yadav, Aparajita Ojha, <b>A Fast and Efficient Data Hiding Scheme in Binary Images</b> in 2012 Eighth International Conference on Intelligent Information Hiding and Multimedia Signal Processing, 2012,  pp 79-84, , -, IEEE, DOI=<a href="http://dx.doi.org/https://doi.org/10.1109/IIH-MSP.2012.25">http://dx.doi.org/https://doi.org/10.1109/IIH-MSP.2012.25</a></p> <p><b>16.</b> Divya Prakash Nigam, Aparajita Ojha, <b>An aspect oriented model of efficient and secure card-based payment system</b> in Proceedings of the 2011 International Conference on Communication, Computing &amp; Security, 2011,  pp 559-564, , -, ACM, DOI=<a href="http://dx.doi.org/https://doi.org/10.1145/1947940.1948056">http://dx.doi.org/https://doi.org/10.1145/1947940.1948056</a></p></div>
+											</div>
+												
+										</div>
+									
+									</div>
+								</div>
+							
+						</div>
+					</div>
+                                
+                       </div>
+					   
+					   
+					   
+					   
+					   
+					   
+					   
+					   <div class="tab-pane fade in" id="Administrative">
+
+							
+								<h3>Administrative Responsibilities :</h3> <br><br>
+									<h4><b> Role: </b>Coordinator, Discipline Women Cell </h4>
+									<p>Coordination for issues related to Female Students and Faculties<br>
+									2021-09-28&nbsp; &nbsp; &nbsp;</p>
+									<hr>
+									<h4><b> Role: </b>Coordinator- Discipline Student Counseling Services</h4>
+									<p>Counselling related issues of Discipline UG and PG students<br>
+									2021-09-28&nbsp; &nbsp; &nbsp;</p>
+									<hr> 			
+										
+					  </div><!-- End tab-pane --> 
+					   
+					   
+					   <div class="tab-pane fade in" id="Research_students">
+                      
+						
+                        	<div class="row">
+						        <div class="user-details">
+							
+							
+								
+								<ul class="nav nav-pills" id="mytabs">
+									<li class="active">
+										<a data-toggle="tab" href="http://cse.iiitdmj.ac.in/faculty_page.php?id=aojha@iiitdmj.ac.in#PHD">PHD</a>
+									</li>
+									<li>
+										<a data-toggle="tab" href="http://cse.iiitdmj.ac.in/faculty_page.php?id=aojha@iiitdmj.ac.in#MTech">MTech</a>
+									</li>
+									<li>
+										<a data-toggle="tab" href="http://cse.iiitdmj.ac.in/faculty_page.php?id=aojha@iiitdmj.ac.in#BTech">BTech</a>
+									</li>								
+								</ul>
+								
+								
+								<div class="user-body">
+									<div class="tab-content">
+										<div id="PHD" class="tab-pane active">
+										
+											<div class="row">	
+												<div class="col-md-12 col-sm-12" style="overflow:scroll;">
+													
+													<table class="table table-hover">
+													<thead>													
+														<tr>
+														   <th>Name</th>
+														   <th>Research Topic</th>
+														   <th>Start Date</th>
+														   <th>Status</th>
+														   <th>Profile</th>						
+														</tr>													
+													</thead>
+													
+													<tbody><tr>
+														    <td>Shubhangi Chaturvedi</td>
+															<td>Deep Learning Framework for Smoke Detection and Segmentation</td>		
+															<td>0000-00-00</td>	
+															<td>Ongoing</td>
+															<td><a href="http://cse.iiitdmj.ac.in/student_page.php?id=1821602@iiitdmj.ac.in"><p><img src="./Education_files/SHUBHANGI CHATURVEDI.jpg" alt="Profile" style="height:100px;width:100px;"></p></a></td>													
+														</tr></tbody>
+													
+													</table>
+												
+													</div>											
+												
+											</div>
+									
+										</div>
+										
+										
+										<div id="MTech" class="tab-pane">
+											<div class="row">	
+												<div class="col-md-12 col-sm-12" style="overflow:scroll;">
+													
+													<table class="table table-hover">
+													<thead>													
+														<tr>
+														   <th>Name</th>
+														   <th>Research Topic</th>
+														   <th>Start Date</th>
+														   <th>Status</th>
+														   <th>Profile</th>								
+														</tr>													
+													</thead>
+													
+													<tbody></tbody>
+													
+													</table>
+												
+													</div>	
+												
+											</div>									
+										</div>
+										
+										<div id="BTech" class="tab-pane">
+											<div class="row">	
+												<div class="col-md-12 col-sm-12" style="overflow:scroll;">
+													
+													<table class="table table-hover">
+													<thead>													
+														<tr>
+														   <th>Name</th>
+														   <th>Research Topic</th>
+														   <th>Start Date</th>
+														   <th>Status</th>
+														   <th>Profile</th>								
+														</tr>													
+													</thead>
+													
+													<tbody></tbody>
+													
+													</table>
+												
+													</div>	
+												
+											</div>									
+										</div>
+									
+									</div>
+								</div>
+							
+						</div>
+					</div>
+                                
+                    </div><!-- End tab-pane -->
+                       
+                  </div>   <!-- End content-->              
+		
+     </div><!-- End col-md-8-->   	
+  </div><!-- End row-->   
+</div><!-- End container -->
+</section><!-- End main_content-->
+ 
+ 
+
+
+
+
+  	
+    <title>Computer Science Department IIITDM Jabalpur</title>
+    <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no">
+
+    <!-- Favicons-->
+    <link rel="shortcut icon" href="http://cse.iiitdmj.ac.in/assets/img/favicon.ico" type="image/x-icon">
+    <link rel="apple-touch-icon" type="image/x-icon" href="http://cse.iiitdmj.ac.in/assets/img/apple-touch-icon-57x57-precomposed.png">
+    <link rel="apple-touch-icon" type="image/x-icon" sizes="72x72" href="http://cse.iiitdmj.ac.in/assets/img/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon" type="image/x-icon" sizes="114x114" href="http://cse.iiitdmj.ac.in/assets/img/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon" type="image/x-icon" sizes="144x144" href="http://cse.iiitdmj.ac.in/assets/img/apple-touch-icon-144x144-precomposed.png">
+    <link href="./Education_files/settings.css" media="screen" rel="stylesheet">
+
+    <!-- CSS -->
+    <link href="./Education_files/bootstrap.min.css" rel="stylesheet">
+    <link href="./Education_files/superfish.css" rel="stylesheet">
+    <link href="./Education_files/style.css" rel="stylesheet">
+    <link href="./Education_files/fontello.css" rel="stylesheet">
+    <link href="./Education_files/dataTables.bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="./Education_files/font-awesome.min.css">
+    <link rel="stylesheet" href="./Education_files/jquery.fancybox.css">
+	  <link href="./Education_files/theme.min.css" rel="stylesheet" type="text/css">
+    <link href="./Education_files/styles.css" rel="stylesheet" type="text/css">
+
+
+ 
+
+<!-- Footer section -->
+<footer>
+
+<div class="container" id="nav-footer">
+	<div class="row text-left">
+
+		<div class="col-md-3 col-sm-3">
+			<h4>IMPORTANT LINKS</h4>
+			<ul>
+				<li><a href="http://cse.iiitdmj.ac.in/assets/misc/2022-2023%20Sem%20II%20-%20CSE%20TA%20duty%20list%20V1.pdf" target="_blank">TA Duty 2023</a></li>
+				<li><a href="http://pbi.iiitdmj.ac.in/" target="_blank">Project Based Internship</a></li>
+				<li><a href="http://placement.iiitdmj.ac.in/" target="_blank">Placement Cell</a></li>
+				<li><a href="https://www.iiitdmj.ac.in/academics/dean_acad.php" target="_blank">Dean of Academics</a></li>
+				<li><a href="https://www.iiitdmj.ac.in/students/dean_office.php" target="_blank">Dean of Students</a></li>
+				<li><a href="https://www.iiitdmj.ac.in/rspc.iiitdmj.ac.in/office.php?pid=7" target="_blank">Dean of Research and Development</a></li>
+				<li><a href="http://faculty.iiitdmj.ac.in/faculty/pnkondekar" target="_blank">Dean of Planning and Development</a></li>	
+			</ul>
+		</div><!-- End col-md-4 -->
+		<div class="col-md-3 col-sm-3">
+			<h4>RESEARCH GROUP</h4>
+			<ul>
+				<li><a href="https://www.iiitdmj.ac.in/icv.iiitdmj.ac.in/" target="_blank">Image Processing and Computer Vision</a></li>
+				<li><a href="https://www.iiitdmj.ac.in/iot.iiitdmj.ac.in/" target="_blank">IoT and Embedded Systems</a></li>
+				<li><a href="https://www.iiitdmj.ac.in/main.iiitdmj.ac.in/" target="_blank">Machine Intelligence</a></li>
+				<!--<li><a href="http://srg.iiitdmj.ac.in/" target = "_blank">Security Research Group</a></li>-->
+			</ul>
+		</div><!-- End col-md-4 -->
+		<div class="col-md-3 col-sm-3">
+			<h4>Quick Links</h4>
+			<ul>
+				<li><a href="http://www.iiitdmj.ac.in/" target="_blank">IIITDM Jabalpur Home</a></li>
+				<li><a href="http://www.iiitdmj.ac.in/academics/calendar.php#acad_cal" target="_blank">Academic Calender</a></li>
+				<li><a href="https://www.iiitdmj.ac.in/downloads/Closed-Holiday-2023.pdf" target="_blank">Holidays 2023</a></li>
+				<li><a href="http://placement.iiitdmj.ac.in/" target="_blank">Placement Cell</a></li>
+				<li><a href="http://cse.iiitdmj.ac.in/aboutus.php" target="_blank">About Us</a></li>
+				<li><a href="http://ict.iiitdmj.ac.in/index.html" target="_blank">E &amp; ICT Academy</a></li>
+				<li><a href="http://cse.iiitdmj.ac.in/webteam.php" target="_blank">Web Team</a></li>
+			</ul>
+		</div><!-- End col-md-4 -->
+		<div class="col-md-3 col-sm-3">
+			<ul id="follow_us">
+				<li><a href="https://twitter.com/CIiitdmj"><i class="icon-twitter"></i></a></li>
+				<li><a href="https://www.linkedin.com/in/cse-discipline-iiitdm-jabalpur-5622b0226/"><i class="icon-linkedin"></i></a></li>
+				<li><a href="http://cse.iiitdmj.ac.in/faculty_page.php?id=aojha@iiitdmj.ac.in#"><i class="icon-facebook"></i></a></li>
+				<li><a href="http://cse.iiitdmj.ac.in/faculty_page.php?id=aojha@iiitdmj.ac.in#"><i class="icon-instagram"></i></a></li>
+			</ul>
+			<ul>
+				<li><strong class="phone">0761-2794261</strong><br><small>Mon - Fri / 9:00 AM - 05:00 PM</small></li>
+				<!-- <li>Questions? <a href="#">question@iiitdmj.ac.in</a></li> -->
+			</ul>
+		</div>
+		
+		
+		
+		<!-- End col-md-4 -->
+	
+
+		<!-- <div class="col-md-3 col-sm-3">
+			
+		<a href='https://www.symptoma.it/'>search engine for diseases</a> <script type='text/javascript' src='https://www.freevisitorcounters.com/auth.php?id=a26b92f191b521b68bf54d89bd70522d0dde8026'></script>
+<script type="text/javascript" src="https://www.freevisitorcounters.com/en/home/counter/970537/t/6"></script>
+
+		</div> -->
+		<!-- End col-md-4 -->
+
+
+	</div><!-- End row -->
+</div>
+<!-- <div id="copy_right">© 1998-2014</div> -->
+
+</footer>
+
+<div id="toTop" style="display: block;">Back to top</div>
+<!-- JQUERY -->
+<script src="./Education_files/jquery-1.10.2.min.js.download"></script>
+<!-- jQuery REVOLUTION Slider  -->
+<script type="text/javascript" src="./Education_files/jquery.themepunch.plugins.min.js.download"></script>
+<script type="text/javascript" src="./Education_files/jquery.themepunch.revolution.min.js.download"></script>
+<script type="text/javascript">
+
+		var revapi;
+
+		jQuery(document).ready(function() {
+
+			   revapi = jQuery('.tp-banner').revolution(
+				{
+					delay:9000,
+					startwidth:1700,
+					startheight:600,
+					hideThumbs:true,
+					navigationType:"none",
+					fullWidth:"on",
+					forceFullWidth:"on"
+				});
+
+		});	//ready
+
+	</script>
+
+	<script type="text/javascript">
+	$(document).ready(function() {
+    $('#example').DataTable();
+} );
+	</script>
+
+<script src="./Education_files/autochange.js.download"></script>
+<script type="text/javascript">
+        autoScroll('scroll');
+		 autoScroll2('scroll1');
+		 autoScroll3('scroll3');
+</script>
+<!-- OTHER JS --> 
+<script src="./Education_files/dataTables.bootstrap.min.js.download"></script>
+<script src="./Education_files/jquery.dataTables.min.js.download"></script>
+<script src="./Education_files/superfish.js.download"></script>
+<script src="./Education_files/bootstrap.min.js.download"></script>
+<script src="./Education_files/retina.min.js.download"></script>
+<script src="./Education_files/validate.js.download"></script>
+<script src="./Education_files/jquery.placeholder.js.download"></script>
+<script src="./Education_files/functions.js.download"></script>
+<script src="./Education_files/classie.js.download"></script>
+<script src="./Education_files/uisearch.js.download"></script>
+<script>new UISearch( document.getElementById( 'sb-search' ) );</script>
+
+ <!-- FANCYBOX -->
+<script src="./Education_files/jquery.fancybox.pack.js.download" type="text/javascript"></script> 
+<script src="./Education_files/jquery.fancybox-media.js.download" type="text/javascript"></script> 
+<script src="./Education_files/fancy_func.js.download" type="text/javascript"></script> 
+
+
+
+</body></html>
